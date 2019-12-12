@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "681277076378",
+    "firebase_url": "https://gratisongkir-e3338.firebaseio.com",
+    "project_id": "gratisongkir-e3338",
+    "storage_bucket": "gratisongkir-e3338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681277076378:android:89243af4864d64f0274023",
+        "android_client_info": {
+          "package_name": "com.unitti.gratisongkir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681277076378-l4e34rgh7i20j8kkre8u4gfv4o97ubh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8sMOXDPkNO_LDryISJB6_4CxTM23_Gl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681277076378-l4e34rgh7i20j8kkre8u4gfv4o97ubh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
